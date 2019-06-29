@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": 
+    {
+        "layer0": "DungeonCaptursMod:items/magic_steel"
+    }    
+}
